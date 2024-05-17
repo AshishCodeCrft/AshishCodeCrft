@@ -17,9 +17,14 @@ I am a recent graduate with a keen interest in full-stack development. I love to
 
 Check out some of my projects:
 
-- [Project 1](link-to-project-1): Short description
-- [Project 2](link-to-project-2): Short description
-- [Project 3](link-to-project-3): Short description
+#Event-Management-System-(https://github.com/AshishCodeCrft/Event-Management-System)
+#Overview
+The Event Management System is a web-based application built using Spring Boot that allows users to manage events, register attendees, and submit feedback. The application provides an intuitive interface for users to view and register for events, as well as an administrative interface for managing attendees and collecting feedback.
+
+#Hotel_Management_System-(https://github.com/AshishCodeCrft/Hotel_Management_System)
+#Overview
+Welcome to our Java Hotel Management System, a robust solution designed to revolutionize the way you manage your hotel. Say goodbye to manual booking processes and inefficient room allocation. Our system offers a comprehensive suite of features to streamline every aspect of your hotel's operations.
+
 
 ## Let's Connect 🤝
 
