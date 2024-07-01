@@ -8,7 +8,7 @@ I am a recent graduate with a keen interest in full-stack development. I love to
 
 ## Skills & Tools 🛠️
 
-- Languages: JavaScript, HTML, CSS, Core Java
+- Languages: Java , JavaScript, HTML, CSS, Advance Java
 - Databases: MySQL
 - Version Control: Git, GitHub
 - Tools: VS Code, Postman, Intelije,netBeans
