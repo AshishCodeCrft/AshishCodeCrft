@@ -30,7 +30,7 @@ Welcome to our Java Hotel Management System, a robust solution designed to revol
 
 Feel free to reach out! Whether you want to collaborate on a project, discuss tech trends, or just have a chat, I'm always open to connecting with fellow developers and tech enthusiasts.
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-ashish-chaudhari-blue)](https://www.linkedin.com/in/ashish-chaudhari-7245a6249)
+[![LinkedIn](https://upload.wikimedia.org/wikipedia/commons/0/01/LinkedIn_Logo_2023.svg)](https://www.linkedin.com/in/ashish-chaudhari-7245a6249)
 [![Twitter](https://img.shields.io/badge/Twitter-ashishcodes-green)](https://twitter.com/your-twitter-profile)
 [![Portfolio](https://img.shields.io/badge/Portfolio-ashishcodes.com-orange)](https://www.ashishcodes.com)
 [![GitHub](https://img.shields.io/badge/GitHub-ashishcodes-black)](https://github.com/ashishcodes)
